@@ -1,0 +1,25 @@
+﻿#####
+# Config file for whereami
+#
+# made by jkm
+# https://github.com/jameskmonger/
+#####
+
+# The zones to check for
+zones:
+  ### You can define a rectangular zone with 2 corners
+  # "Spawn":
+  #   x1: -200
+  #   z1: -200
+  #   x2: 200
+  #   z2: 200
+  
+  ### Or a polygon with any number of vertices
+  # "Triangle":
+  #   vertices:
+  #     - - 300
+  #       - 300
+  #     - - 400
+  #       - 300
+  #     - - 550
+  #       - 450

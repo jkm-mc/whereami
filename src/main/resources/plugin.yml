@@ -1,4 +1,10 @@
-name: myplugin
+name: whereami
 version: ${project.version}
-author: Your Name
-main: dev.jkm.myplugin.MyPlugin
+author: jkm
+main: dev.jkm.whereami.WhereAmIPlugin
+api-version: 1.14
+
+commands:
+  whereami:
+    description: Get the current zone you are in
+    usage: /whereami
