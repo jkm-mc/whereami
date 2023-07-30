@@ -1,0 +1,4 @@
+name: myplugin
+version: ${project.version}
+author: Your Name
+main: dev.jkm.myplugin.MyPlugin
